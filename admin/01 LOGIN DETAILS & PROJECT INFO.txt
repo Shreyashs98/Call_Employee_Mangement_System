@@ -1,0 +1,10 @@
+**Database Name: call_center_ems**
+
+
+
+
+**Admin Login Details**
+
+Username: admin
+Password: password
+
